@@ -1,4 +1,8 @@
+
 # Procesamiento de Imagenes en C++
+
+##Miguel FLechas
+##Juan Hurtado
 
 Proyecto universitario de procesamiento digital de imagenes utilizando **C++** y **OpenCV**. Se implementan conversiones de espacios de color de forma manual, recorriendo pixel por pixel sin usar funciones de conversion de OpenCV.
 
